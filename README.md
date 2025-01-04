@@ -1,1 +1,1 @@
-This project will demonstrate all that I have learned of HTML during the my study of the odin project.
+This project will demonstrate the proficiency of my HTML skills I have learned while working on the odin project curriculum.
